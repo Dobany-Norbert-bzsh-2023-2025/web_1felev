@@ -1,0 +1,46 @@
+p.egy
+{
+    text-shadow:5px 5px 1px red;
+    background-color: aquamarine;
+}
+p.ketto
+{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    overflow:scroll;
+    padding: 5px;
+}
+div.azonos
+{
+    background-color: cadetblue;
+}
+
+div.atlag ul
+{
+    list-style-type:none;
+    
+}
+div.szinek ul
+{
+    list-style-image: url(Névtelen.png);
+}
+
+.atlag
+{
+    list-style-position: outside;
+}
+
+.doboz1
+{
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 200px;
+    /*visibility: hidden;*/
+}
+.doboz2
+{
+    left: 100px;
+    position: relative;
+}

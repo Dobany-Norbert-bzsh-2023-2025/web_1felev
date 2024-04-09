@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+
+}
+.container
+{
+    background-color: aquamarine;
+    border: cadetblue solid 5px;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.a
+{
+    background-color: bisque;
+    border-bottom: burlywood 5px solid;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+    
+}
+.b
+{
+    margin-top: 20px;
+}
+.c
+{
+    margin-bottom: 20px;
+}

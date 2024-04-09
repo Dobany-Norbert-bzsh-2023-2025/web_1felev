@@ -1,0 +1,30 @@
+header
+{
+    height:150px;
+    background-color: khaki;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 2px;
+    background-image: url(1029-536x354.jpg);
+}
+
+h2
+{
+    background-color: antiquewhite;
+}
+
+.kep
+{
+float: right;
+margin-left: 15px;
+}
+.kep2
+{
+    float: left;
+    margin-right: 15px;
+}
+
+p
+{
+    text-align: justify;
+}

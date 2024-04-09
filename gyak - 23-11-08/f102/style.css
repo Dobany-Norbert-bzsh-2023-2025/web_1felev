@@ -1,0 +1,18 @@
+.f1
+{
+   font-size: 24px;
+}
+.f2
+{
+text-decoration: underline;
+}
+.f3f4
+{
+     text-decoration: line-through;
+     color: yellow;
+}
+.f5
+{
+    background-color: blue;
+    color: white;
+}

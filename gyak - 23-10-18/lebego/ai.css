@@ -1,0 +1,27 @@
+/* Style for the orange table */
+table {
+    background-color: orange;
+    border-radius: 20px;
+    width: 600px; /* Set the width to 600px */
+    height: 200px; /* Set the height to 200px */
+    margin: 0 auto; /* Center the table horizontally */
+    border: none; /* Remove table border */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Style for the blue circles */
+  .circle {
+    width: 150px; /* Set the width to 150px */
+    height: 150px; /* Set the height to 150px */
+    background-color: blue;
+    border-radius: 50%;
+    margin: 0 20px; /* Reduce the margin to bring the circles closer */
+  }
+  
+  /* Position the circles in the middle of the table cells */
+  .cell1, .cell2 {
+    text-align: center;
+  }
+  

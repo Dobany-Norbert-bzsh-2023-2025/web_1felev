@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+    background-color: burlywood;
+   
+    
+    
+}
+header{
+    border-color:dimgray;
+    border-width: 1px;
+    border-style: solid; 
+    height: 200px;
+    padding: 8px;/*belso margo*/
+
+    text-align: center;
+    font-size: xx-large;
+
+    background-image: url(images/rugo-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    background-color: rgb(153, 240, 196);
+    background-size: 150px;
+}
+header h1{
+    margin: top 0px;;
+}
+nav ul li a:hover{
+    background-color:grey;
+    color: white;
+}
+nav{
+    background-color: wheat;
+    font-size: x-large;
+    text-align: center;
+}
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li{
+    display:inline;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 2px;
+}
+
+img.rugo2
+{
+    float: right;
+}
+
+aside.one
+{
+    background-color: rgb(223, 223, 48);
+    width: 1000px;
+    height: 100px;
+    float: left;
+    padding: 2px;
+    border-radius: 5px;
+    margin-right: 5px;
+    border-right-style: solid;
+    border-right-width: 6px;
+    border-right-color: blue;
+}
+
+.two
+{
+    clear:left;
+}
+
+section#foszoveg, #leiroszoveg, #progrugo
+{
+    margin:5% 20% 10% 3%;/* alul felul jobb bal margo*/
+}
+
+aside.three
+{
+    float: right;
+    width: 400px;
+    height: 100px;
+}
+.spanclass
+{
+    width: 400px;
+    height: 100px;
+}

@@ -1,0 +1,40 @@
+/*
+* File: style.css
+* Author: Dobány Norbert Andor
+* Copyright: 2023, Dobány Norbert Andor
+* Group: Szoft I/1/N
+* Date: 2023-11-22
+* Github: https://github.com/
+* Licenc: GNU GPL
+*/
+
+body
+{
+    font-family: sans-serif;
+}
+h1
+{
+    color:#333;
+    background-color: bisque;
+}
+.feladat4
+{
+    text-decoration: underline;
+}
+.feladat5
+{
+    font-size: 22px;
+}
+.elso
+{
+    background-color: aqua;
+}
+.masodik
+{
+    background-color: antiquewhite; 
+}
+.feladat8
+{
+    font-weight: bold;
+    
+}

@@ -1,0 +1,15 @@
+h1{
+    background-color: blue;
+    color: white;
+    font-family:sans-serif;
+    margin: 20px;/*kulso margo*/
+    padding: 20px;/*belso margo*/
+}
+body{
+    background-color: black;
+    color: white;
+}
+kbd{
+    
+}
+

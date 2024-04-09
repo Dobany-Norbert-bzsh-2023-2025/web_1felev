@@ -1,0 +1,58 @@
+body{
+    padding: 50px;
+    margin-top: -50px;
+}
+header{
+    height: 300px;
+    border: solid black 2px;
+}
+.mid
+{
+    height: 700px;
+    border: solid black 2px;
+    position: relative;
+}
+.doboz1
+{
+    height: 350px;
+    width: 400px;
+    margin: 2%;
+    border: solid black 2px;
+    display:flex;
+    justify-content: center;    
+}
+.doboz2
+{
+    height: 250px;
+    width: 400px;
+    margin: 2%;
+    border: solid black 2px;    
+    display:flex;
+    justify-content: center;
+}
+.doboz3
+{
+    position: absolute;
+    top: 0;
+    right: 0px;
+    height: 200px;
+    width: 250px;
+    margin: 2%;
+    border: solid black 2px;    
+    
+}
+.inside
+{
+    
+    height: 50px;
+    width: 350px;
+    margin: 2%;
+    border: solid black 2px; 
+}
+
+
+.bot
+{
+    height: 100px;
+    border:solid black 2px;
+}

@@ -1,0 +1,33 @@
+body
+{
+    background-color: aqua;
+}
+.container
+{
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.a 
+{
+   
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    background-color: magenta;
+    box-shadow: 0px 5px yellow;
+    height: 30px;
+    
+    
+}
+.b
+{
+    max-width: 50%;
+   margin-top: 15px;
+}
+.c
+{
+    margin-bottom: 20px;
+}

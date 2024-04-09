@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 130px;
+    background-color: aqua;
+    background-image: url(images/optikai_rajz.png);
+    background-size:contain;
+    text-align: center;
+}
+
+.header_title {
+    font-family: sans-serif;
+    padding: 5px;
+    margin: 0;
+    background-color: white;
+    
+    display: inline-block;
+}
+
+.container section h1 {
+    margin-top: 20px;
+}
+
+aside {
+    background-color: aqua;
+    height: 14rem;
+    width: 14rem;
+    padding: 5px;
+    float: right;
+    margin-left: 5px;
+    border-left: blueviolet 10px solid;
+    border-radius: 0 8px 8px 0;
+}
+
+#aporef {
+    float:left;
+    margin: 3px;
+}
+
+.type {
+    margin-bottom: 20px;
+    clear: left;
+    padding-top: 20px;
+}
+
+.type ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.type ul li {    
+    border-color: #8888;
+    border-width: 1px;
+    border-style: solid;
+    margin-bottom: 5px;
+    padding: 3px;
+    background-color: aliceblue;
+}
+
+footer {
+    border-color: #888;
+    border-width: 1px;
+    border-style: solid;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+#newton_teleszkop {
+    float:left;
+    margin-right: 7px;
+    border-radius: 7px;
+}
+
+#teleszkop {
+    float: right;
+    margin-left: 8px;
+}
+
+section p {
+    text-align: justify;
+}
+
+.kiemeles {
+    font-weight: bold;
+}
+
+@media (max-width: 400px) {
+    aside {
+        float: none;
+        border-color:blueviolet;
+        border-width: 16rem;
+        border-style: solid;
+        border-radius: 8px;
+        
+    }
+}

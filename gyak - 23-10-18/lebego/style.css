@@ -1,0 +1,76 @@
+body{
+    background-color: grey;
+}
+
+
+
+.kulso
+{
+    /*margin: 10%;*/
+    border-style: solid;
+    border-color: orange;
+    border-width: 80px;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 20px red;
+    border-radius: 20px;
+}
+.belso
+{
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 20px 20px 20px red;    
+}
+
+
+
+
+.negyzet
+{
+    margin-top: 60px;
+    background-color: orange;
+    width: 600px;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.kozos
+{
+    background-color: blue;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    
+}
+
+.outside
+{
+    margin-top: 60px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.in
+{
+    background-color:cadetblue;
+    width: 50px;
+    height: 300px;
+    margin: 5px;
+}
+div.d
+{
+    height:250px;
+    vertical-align:baseline;
+    display: flex ;
+}

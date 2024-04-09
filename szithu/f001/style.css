@@ -1,0 +1,45 @@
+.kerek {
+    width: 100px;
+    height:100px;
+}
+
+section {
+    clear:left;
+}
+
+header {
+    display: flex;
+    height: 150px;
+    background-image: url(images/Vajra2.jpeg);
+    margin: 2%;
+}
+
+header h1 {
+background-color: rgba(255, 255, 255, 0.9);
+height: 1.2em;
+}
+
+h2 {
+color: navy;
+}
+
+.tantra {
+    text-decoration: underline;
+}
+
+.dharani {
+    background-color: aqua;
+    float: right;
+    width: 150px;
+    padding: 5px;
+    border-radius: 5px;
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-left-color: blueviolet;
+}
+
+@media (max-width: 1000px) {
+    .dharani {
+        display: none;
+    }
+}

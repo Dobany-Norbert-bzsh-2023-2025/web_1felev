@@ -1,0 +1,54 @@
+table.egy{
+    border: solid black 1px;
+    border-collapse: collapse;
+    border-spacing: 15px;
+    
+}
+table.egy td{
+    border: solid black 1px;
+    padding: 5px;
+    
+}
+
+table.egy td:nth-child(odd)
+{
+    background-color: red;
+    
+}
+table.egy td:nth-child(even)
+{
+    background-color: white;
+    
+}
+
+
+table.egy th{
+    border: solid black 1px;
+    padding: 5px;
+    background-color:rgb(255, 0, 149);
+}
+
+table.ketto {
+    border: solid black 1px;
+    border-collapse:separate;
+    border-spacing: 15px;
+    background-color: aqua;
+    
+}
+table.ketto td{
+    border: solid black 1px;
+    padding: 5px;
+    background-color: lawngreen;
+}
+
+table.ketto td:nth-child(even)
+{
+    background-color:cornflowerblue;
+    
+}
+
+table.ketto th{
+    border: solid black 1px;
+    padding: 5px;
+    background-color:rgb(224, 205, 255);
+}

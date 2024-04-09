@@ -1,0 +1,34 @@
+.kerek {
+    width: 100px;
+}
+
+section {
+    
+}
+
+header {
+    display: flex;
+    height: 150px;
+}
+
+header h1 {
+
+}
+
+h2 {
+
+}
+
+.tantra {
+    
+}
+
+.dharani {
+    background-color: aqua;
+}
+
+@media (max-width: 1000px) {
+    .dharani {
+
+    }
+}

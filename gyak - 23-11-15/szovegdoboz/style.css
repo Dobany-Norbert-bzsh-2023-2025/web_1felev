@@ -1,0 +1,51 @@
+body{
+    margin:0;
+}
+header
+{
+    background-color: antiquewhite;
+    height: 100px;
+    background-image: url(460-536x354.jpg);
+    background-size: cover;
+    
+}
+header h1{
+    text-align: center;
+    /*: 0.1;*/
+    color:rgba(6,6,6,0.1);
+}
+nav
+{
+    background-color: cadetblue;
+}
+
+ul{
+    margin-top: 0;
+    list-style-type: none;
+    text-align: center  ;
+}
+li
+{
+    display: inline-block;
+    margin: 10px;
+}
+a:hover{
+    background-color: chartreuse;
+}
+a:link{
+color:bisque;
+}
+.content
+{
+ margin: 5%;
+}
+img
+{
+    float:left;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.sec
+{
+    clear:left;
+}
